@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davidwillimson
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me davidwilliamson123456789@gmail.com
 
 <!---
